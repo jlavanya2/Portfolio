@@ -1,10 +1,10 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import About from './pages/About';
-import Contact from './pages/Contact';
-import Education from './pages/Education';
-import Projects from './pages/Projects';
+import About from './components/About';
+import Contact from './components/Contact';
+import Education from './components/Education';
+import Projects from './components/Projects';
 
 export default function App() {
   return (
