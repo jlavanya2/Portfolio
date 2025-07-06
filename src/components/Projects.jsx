@@ -28,6 +28,13 @@ const projects = [
     tech: ["React", "Tailwind CSS", "Socket.io", "Node.js","APIs","MongoDB"],
     status: "In Progress"
   },
+  {
+    name: "Ecommerce Platform",
+    description: "",
+    url: "#",
+    tech: ["React", "Tailwind CSS", "Node.js","APIs","MongoDB"],
+    status: "In Progress"
+  },
 ];
 
 export default function Projects() {
